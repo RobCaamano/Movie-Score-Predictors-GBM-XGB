@@ -6,6 +6,6 @@
 
 ![page 1](https://github.com/RobCaamano/Movie-Score-Predictors-GBM-XGB/blob/main/imgs/pg3.png)
 
-Link to Dataset
+# Link to Dataset
 
-<a href="https://www.kaggle.com/datasets/danielgrijalvas/movies" target="_parent"></a>
+Movie [Industry](https://www.kaggle.com/datasets/danielgrijalvas/movies)
