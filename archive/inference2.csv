@@ -1,0 +1,10 @@
+name,rating,genre,year,released,score,votes,director,writer,star,country,budget,gross,company,runtime
+Scott Pilgrim vs. the World,PG-13,Action,2010,"August 13, 2010 (United States)",7.5,394000.0,Edgar Wright,Michael Bacall,Michael Cera,United States,60000000.0,48917974.0,Universal Pictures,112.0
+Ratatouille,G,Animation,2007,"June 29, 2007 (United States)",8.0,660000.0,Brad Bird,Brad Bird,Brad Garrett,United States,150000000.0,623726085.0,Walt Disney Pictures,111.0
+Eternal Sunshine of the Spotless Mind,R,Drama,2004,"March 19, 2004 (United States)",8.3,935000.0,Michel Gondry,Charlie Kaufman,Jim Carrey,United States,20000000.0,74036715.0,Focus Features,108.0
+Airplane!,PG,Comedy,1980,"July 2, 1980 (United States)",7.7,221000.0,Jim Abrahams,Jim Abrahams,Robert Hays,United States,3500000.0,83453539.0,Paramount Pictures,88.0
+Spirited Away,PG,Animation,2001,"March 28, 2003 (United States)",8.6,679000.0,Hayao Miyazaki,Hayao Miyazaki,Daveigh Chase,Japan,19000000.0,355475245.0,Tokuma Shoten,125.0
+The Gunman,R,Action,2015,"March 20, 2015 (United States)",5.8,40000.0,Pierre Morel,Jean-Patrick Manchette,Sean Penn,United States,40000000.0,24177137.0,Open Road Films (II),115.0
+Sausage Party,R,Animation,2016,"August 12, 2016 (United States)",6.1,181000.0,Greg Tiernan,Kyle Hunter,Seth Rogen,United States,19000000.0,140705322.0,Annapurna Pictures,89.0
+Bratz,PG,Comedy,2007,"August 3, 2007 (United States)",3.1,18000.0,Sean McNamara,Susan Estelle Jansen,Skyler Shaye,United States,20000000.0,26013153.0,Avi Arad & Associates,110.0
+Schindler's List,R,Biography,1993,"February 4, 1994 (United States)",8.9,1200000.0,Steven Spielberg,Thomas Keneally,Liam Neeson,United States,22000000.0,322161245.0,Universal Pictures,195.0
